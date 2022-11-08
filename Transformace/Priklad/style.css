@@ -21,4 +21,17 @@ h2 {
 
 /* ----------------------- */
 
+.posun{
+	transition: 0.5s;
+}
 
+.posun:hover {
+	transform: translate(50px);
+}
+
+.rotace{
+	transition: 2s;
+}
+.rotace:hover {
+	transform: rotate(180deg);
+}

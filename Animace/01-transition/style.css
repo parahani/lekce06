@@ -34,9 +34,25 @@ body {
 .kolecko {
 	width: 250px;
 	height: 250px;
-	border-radius: 50%;
 	background-color: #3498db;;
 }
 
 
 /* ------------------------------------------ */
+
+.ctverecek{
+	transition: 2s;
+}
+.ctverecek:hover {
+	background-color: red;
+	width: 1000px;
+	opacity: 0.5s;
+}
+
+.kolecko:hover {
+	border-radius: 50%;
+}
+
+.kolecko{
+	transition: 2s;
+}
