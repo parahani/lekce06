@@ -1,6 +1,7 @@
 # Lekce 06 - outline
 
 - Animace
+- Transformace
 - Vlastnost Background
 
 
